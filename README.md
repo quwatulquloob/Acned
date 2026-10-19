@@ -1,5 +1,7 @@
 # Acned
 
+![Acned detection interface](Acne%20detection.png)
+
 A local image detection app that highlights acne classes with colored bounding boxes and shows total and per-class counts above the results. Upload an image, compare the original with the annotated output, and download the result.
 
 ## Features
