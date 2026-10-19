@@ -1,0 +1,12 @@
+path: '/content/gdrive/MyDrive/acne/data' # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/train  # val images (relative to 'path')
+
+# Classes
+names:
+  0: blackheads
+  1: dark spot
+  2: nodules
+  3: papules
+  4: pustules
+  5: whiteheads

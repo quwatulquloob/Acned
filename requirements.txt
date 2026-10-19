@@ -1,0 +1,7 @@
+# Python 3.12 was used during development.
+torch==2.6.0
+torchvision==0.21.0
+ultralytics==8.3.202
+opencv-python>=4.10,<5
+numpy>=1.26,<3
+PyYAML==6.0.2

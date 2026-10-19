@@ -1,0 +1,48 @@
+# Python and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+.aws/
+.codex/
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
+
+# Model checkpoints and exports (distribute separately)
+*.pt
+*.pth
+*.onnx
+*.engine
+*.tflite
+
+# Training data, runs and generated outputs
+images/
+labels/
+datasets/
+runs/
+uploads/
+outputs/
+Acned/
+detected  image/
+*.cache
+img.jpg
+output.jpg
